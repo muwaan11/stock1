@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "woven-mapper-462213-e4",
+  "private_key_id": "580a38655d7dc50652f754cd7d40efce953f7cbd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbp1rK3CeDo40D\nJR7vVYiklU4kizvYCggKCJRizEeaz4Bk7Pe8eWiIi3kgKmU15zEceTNDX+smrqv9\nEClb9fIgq5QNz6vGszQ1kbIoPz4CWkYjBExlURgMs+ok2P1KW5dpGOJGH2Qia32b\nv8fxmnaHGJle5PncOMErG+3nosf12p9WgEnWq2cDoSt2NdXsX7rTeL5J2/su8jPT\nK6893q18GNOIjCzcYrKpcPFetvvSRQgLRbGaJ7rR5p5yO2KlXBci12Fct/YjjV2s\nEWjI9qnihy2ZB3VGwBskY3o2muDXRbIaGXO+x5vNGc4im5FKRUDdQwVu/qMZT7mx\nCcjoCnhjAgMBAAECggEAGMRCYOMyfF0n1kzFRSgIc8ZNUT5ARD9QXnxVU/pqGFAU\n/2S/LyOS8PW0TQcXOezyi7PIkYYFGLoT+VJlf6bneFr6AKU/EVY5Tp7DSL52A5Im\nn8gSzyTd8pjRVDycjNonAjIolXzFhj6GlXjTUSDr5CdosUiLbdwv9vKHjQ2sdcoB\ny3HZE3VOck9bMlKt4PHbjScqaHUdL1QQwUxbI0RSUk7nKqMYvz9BK3qcqeYrkk6S\nSitKUiCiS0H4NZjcEsQIIzZ9nAPt8xrfIr8spkvPwkF1b42Wo9ClSUY4XteviDeE\n5uKIoZ/vdlfZALt3Po4DMHq1HQdgTVzrmRW2ZmEkzQKBgQDN0PJLgXTSSTeBF2aa\nObHH2/UI+06N9C8tF139muarF4hX68aprtKwMNF7fzBLOAst8DwYhpQ8fOIRjInt\nfetSd+hBKbOAUlbc9pMYFDajGmNJkPkhFPjNy95/lUWk1ejoGfirzj/D4JSmBxJU\nnWNBsIHthmENYBdwqR364AuqtQKBgQDBm0PuQOSevuTRnvLXdnDoCbNSIqg2ArJM\nOIJR22nhgV4weiNDJvNQrkTxN/qHO5I4ZBVGkjNPTC1xWdHWrLKb2AEQTZ/NpJPp\nmUH8qTNPedE5IfWaRRFL5jliBhRR5uWKR7IwOhFMkJxdLph4fXiXP38Tt5YE/0y2\nKY8Pgc9NtwKBgAwWbnSCyOKkzC63uh3qr4dGYtDBOa7anX6vdaS0WUHJIwfO4B8N\nFnCknVj8clConPd4uX7TQJeA2iIft+YL1CtGwYw6L8GklFdr3921KjRQE265pfgM\nbERh6dJiaPGyYnhnNhSZC2Osp+5MUgZILBEqlabmkoKflyDVvd4DFIxVAoGBAJLT\n07LO2BNkJlirOPQayQnQwYQa8IL1jI6tlHfL9QKmf+430qJM2d5oK7TchU0l6oCF\ntnTsz6jl1tjOC4vJMTNrn3Ljy7vDgsF4D0k0cMtnUTsI/CBhHPr4wLAMeECc4Zv7\nP7G/d/se+NbaTZujXF8oMpGbe1SS4XSNFAfopHUFAoGAELpjRTOQMtIvzUU8SyRo\nbxLl7j3qVdzx670eTpfEj2tq3K43mNxL3TDyy/k8yqpDdSbgBD6fSt1RICSNEbGj\nZBPICAFyoTy7VbJ1FzM0BQ1fz4BMyYMwW8/APySlUHP6mxaWxQlcc6aMYgq4ZCqk\nI/pVn+4X3ZZPf5ea3Vd4H0s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stock-811@woven-mapper-462213-e4.iam.gserviceaccount.com",
+  "client_id": "109332707822196593758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stock-811%40woven-mapper-462213-e4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
